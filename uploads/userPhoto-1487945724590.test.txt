@@ -1,0 +1,56 @@
+Steps to create Public private key for xero plugin
+
+https://developer.xero.com/documentation/advanced-docs/public-private-keypair/
+
+http://prntscr.com/czh2pn
+
+Export password : Welcome@123
+
+go to this link and register a app
+
+https://app.xero.com/Application/Add
+
+
+Private
+
+cunsumer key :- ZMHDBMEVDRJGUG1IRS2FVPRSRXBIPV
+Cunsumer secret
+Q7N9DQCPFELLGP5U2FM5SKYMB1VM96
+
+API end point url
+https://api.xero.com/api.xro/2.0/
+
+subject
+E=neeraj@orionesolutions.com, CN=neeraj, OU=CSP, O=CSP, L=VIC, S=VIC, C=AU
+
+
+Thumbprint
+
+178817F33D682E4BDFD2422CDC7D5DA79EFFDFD5
+
+
+Public
+
+cunsumer key :- YNX9C1BH10IQEIOWFPERDXAVUCY3ZP
+Cunsumer secret
+JCLQ3FA0GI3YMYNBVNLWXKEIRQ9XSA
+
+request token url
+https://api.xero.com/oauth/RequestToken
+
+Autherize url
+https://api.xero.com/oauth/Authorize
+
+Access token url
+https://api.xero.com/oauth/AccessToken
+
+API end point url
+https://api.xero.com/api.xro/2.0/
+
+subject
+E=neeraj@orionesolutions.com, CN=neeraj, OU=CSP, O=CSP, L=VIC, S=VIC, C=AU
+
+
+Thumbprint
+
+178817F33D682E4BDFD2422CDC7D5DA79EFFDFD5
